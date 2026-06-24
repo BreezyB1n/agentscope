@@ -1,0 +1,29 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "608e15cadaec4b1e8a26f2e61654c068230a770d",
+  "prompts": {},
+  "humans": {
+    "h_3fb3e5b0b28fa8": {
+      "author": "zhangbin.327 <zhangbin.327@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {
+    "s_7bc264d02d1c31": {
+      "tool": "trae",
+      "conversation_id": "6a3bb72fd20e507888e26cb3",
+      "session_id": "6a3bb72fd20e507888e26cb3",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_7bc264d02d1c31::t_abcc54021ec63d": {
+      "tool": "trae",
+      "conversation_id": "6a3bb72fd20e507888e26cb3",
+      "session_id": "6a3bb72fd20e507888e26cb3",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
