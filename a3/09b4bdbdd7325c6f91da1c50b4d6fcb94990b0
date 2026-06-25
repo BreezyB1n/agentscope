@@ -1,0 +1,14 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "a309b4bdbdd7325c6f91da1c50b4d6fcb94990b0",
+  "prompts": {},
+  "humans": {
+    "h_3fb3e5b0b28fa8": {
+      "author": "zhangbin.327 <zhangbin.327@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {},
+  "remote_transcripts": {}
+}
