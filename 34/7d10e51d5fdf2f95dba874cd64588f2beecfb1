@@ -1,0 +1,71 @@
+src/agentscope/middleware/_rag.py
+  s_3214d6b24d5ddc::t_ad59b2ee224a0f 83-87 gitai:{"mixed_line_ranges":[],"operations":[{"operation_id":"6a4519e94241c378cd1bc36c","tool_type":"agent","tool_id":"Edit","line_ranges":[{"Range":[83,87]}]}]}
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "347d10e51d5fdf2f95dba874cd64588f2beecfb1",
+  "prompts": {},
+  "humans": {
+    "h_3fb3e5b0b28fa8": {
+      "author": "zhangbin.327 <zhangbin.327@bytedance.com>"
+    }
+  },
+  "sessions": {
+    "s_3214d6b24d5ddc": {
+      "agent_id": {
+        "tool": "trae",
+        "id": "6a4251a94241c378cd1bbec9",
+        "model": "openrouter-1o__dev"
+      },
+      "human_author": "zhangbin.327 <zhangbin.327@bytedance.com>"
+    }
+  },
+  "attestation_metadata": {
+    "src/agentscope/middleware/_rag.py": [
+      {
+        "hash": "s_3214d6b24d5ddc::t_ad59b2ee224a0f",
+        "line_ranges": [
+          {
+            "Range": [
+              83,
+              87
+            ]
+          }
+        ],
+        "mixed_line_ranges": [],
+        "operations": [
+          {
+            "operation_id": "6a4519e94241c378cd1bc36c",
+            "tool_type": "agent",
+            "tool_id": "Edit",
+            "line_ranges": [
+              {
+                "Range": [
+                  83,
+                  87
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "remote_transcripts": {
+    "s_3214d6b24d5ddc": {
+      "tool": "trae",
+      "conversation_id": "6a4251a94241c378cd1bbec9",
+      "session_id": "6a4251a94241c378cd1bbec9",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    },
+    "s_3214d6b24d5ddc::t_ad59b2ee224a0f": {
+      "tool": "trae",
+      "conversation_id": "6a4251a94241c378cd1bbec9",
+      "session_id": "6a4251a94241c378cd1bbec9",
+      "status": "remote_only",
+      "message": "Remote transcript resolution is not implemented yet for TRAE prompts."
+    }
+  }
+}
